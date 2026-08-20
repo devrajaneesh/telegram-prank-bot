@@ -97,7 +97,7 @@ async def get_partner(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "🚨 *PREDICTION COMPLETE* 🚨\n\n"
         f"❤️ Partner: *{partner_name}*\n\n"
         "🔮 *Prediction:*\n\n"
-        f'**Tumhari wife "{partner_name}" Rajaneesh ke saath bhaag jayegi 😂😂**\n\n'
+        f'💥 Tumhari wife "{partner_name}" Rajaneesh ke saath bhaag jayegi 😂😂\n\n'
         "⚠️ _Just for fun — this is a prank, not a real prediction._",
         parse_mode="Markdown",
     )
